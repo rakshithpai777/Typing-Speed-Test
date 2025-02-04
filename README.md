@@ -23,7 +23,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/typing-speed-game.git
+git clone https://github.com/rakshithpai777/typing-speed-game.git
 Open index.html in your browser.
 📜 License
 This project is open-source and available under the MIT License.
